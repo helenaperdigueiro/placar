@@ -1,0 +1,10 @@
+body {
+    margin-left: 20vw;
+    margin-right: 20vw;
+}
+
+div {
+    display: grid;
+    grid-template-columns: 40% 20% 40%;
+    
+}
